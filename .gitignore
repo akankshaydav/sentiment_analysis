@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+# macOS system file
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
+
+# Model files (if large)
+*.pkl
+*.joblib
